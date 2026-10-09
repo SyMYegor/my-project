@@ -1,0 +1,10 @@
+c1b2751 Revert "Add paragraph to index.html"
+86b784d Add paragraph to index.html
+861b971 Resolve merge conflict
+50f023d Update heading text on main
+e1b7015 Change heading text
+8e9d619 Merge pull request #1 from SyMYegor/feature-style
+d81aa25 Add second test file Sadkovyi
+7a65623 Add test file Sadkovyi
+ed9c582 Add blue CSS style to heading
+eee190f Add initial HTML file
